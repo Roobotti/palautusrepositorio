@@ -1,3 +1,6 @@
+
+
+'''mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -26,3 +29,4 @@ sequenceDiagram
     
     Note right of browser: The browser renders the UI and continues executing JavaScript code 
     
+'''
